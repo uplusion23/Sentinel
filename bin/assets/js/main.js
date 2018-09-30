@@ -12,10 +12,6 @@ function enableMap() {
   window.opener.windowReady();
 }
 
-function loadingMap() {
-
-}
-
 // Init map for callback
 if (mapFrame !== undefined) {
   mapFrame.onload = function() {

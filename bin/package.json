@@ -6,7 +6,7 @@
   "keywords": [ "Dungeons and Dragons", "node-webkit" ],
   "window": {
     "title": "DnD - uplusion23",
-    "icon": "link.png",
+    "icon": "assets/img/sentinel_logo.png",
     "toolbar": true,
     "frame": false,
     "width": 1408,

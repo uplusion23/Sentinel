@@ -240,7 +240,7 @@ function fantasyMap() {
   // Changelog dialog window
   const storedVersion = localStorage.getItem("version"); // show message on load
   if (storedVersion != version) {
-    alertMessage.innerHTML = `<b>2018-29-23</b>:
+    /*alertMessage.innerHTML = `<b>2018-29-23</b>:
       The <i>Fantasy Map Generator</i> is updated up to version <b>${version}</b>.
       Main changes:<br><br>
       <li>Map Markers</li>
@@ -262,7 +262,7 @@ function fantasyMap() {
         Close: function() {$(this).dialog("close");}
       },
       position: {my: "center", at: "center", of: "svg"}
-    });
+    });*/
   }
 
   getSeed(); // get and set random generator seed
@@ -6846,7 +6846,7 @@ function fantasyMap() {
 
     // temporary fit loaded svg element to current canvas size
     svg.attr("width", svgWidth).attr("height", svgHeight);
-    if (nWidth !== svgWidth || nHeight !== svgHeight) {
+    /* if (nWidth !== svgWidth || nHeight !== svgHeight) {
       alertMessage.innerHTML  = `The loaded map has size ${nWidth} x ${nHeight} pixels, while the current canvas size is ${svgWidth} x ${svgHeight} pixels.
                                 Click "Rescale" to fit the map to the current canvas size. Click "OK" to browse the map without rescaling`;
       $("#alert").dialog({title: "Map size conflict",
@@ -6872,9 +6872,10 @@ function fantasyMap() {
           }
         }
       });
-    } else {
+    } else { */
+    changeMapSize();
       applyLoadedData(data);
-    }
+    //}
   }
 
   function applyLoadedData(data) {

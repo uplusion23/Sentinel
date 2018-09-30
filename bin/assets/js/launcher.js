@@ -42,6 +42,7 @@ setTimeout(function() {
   var appOpt = {
     'min_width': 1408,
     'min_height': 792,
+    'icon': 'assets/img/sentinel_logo.png',
     'show': false
   }
   nw.Window.open('main.html', appOpt, function(mainWindow) {
