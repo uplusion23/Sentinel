@@ -9824,7 +9824,7 @@ function fantasyMap() {
     svg.attr("width", svgWidth).attr("height", svgHeight);
     // set extent to map borders + 100px to get infinity world reception
     voronoi = d3.voronoi().extent([[-1, -1],[graphWidth+1, graphHeight+1]]);
-    zoom.translateExtent([[0, 0],[graphWidth, graphHeight]]).scaleExtent([1, 20]).scaleTo(svg, 1);
+    zoom.translateExtent([[0, 0],[50, 50]]).scaleExtent([1, 20]).scaleTo(svg, 1);
     viewbox.attr("transform", null);
     ocean.selectAll("rect").attr("x", 0).attr("y", 0).attr("width", graphWidth).attr("height", graphHeight);
   }
