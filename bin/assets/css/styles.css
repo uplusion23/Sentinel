@@ -33,6 +33,151 @@ iframe {
   border: none;
 }
 
+h2 {
+  display: inline-block;
+  font-weight: 300;
+  margin: 5px 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 30px;
+  line-height: 30px;
+}
+
+p {
+  font-weight: 300;
+  color: var(--text-grey);
+}
+
+textarea {
+  resize: vertical;
+}
+
+.card {
+  display: block;
+  position: relative;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 4px;
+  background: var(--dark);
+  width: 80%;
+  height: auto;
+  box-sizing: border-box;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  transition: all 0.3s ease;
+}
+
+.card.card-settings {
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.card > .header {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background: var(--primary);
+  color: var(--text-white);
+  padding: 0 20px;
+  margin: 0;
+  box-sizing: border-box;
+  line-height: 50px;
+}
+
+.dialog {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(13,13,15,0.6);
+  z-index: 999;
+  margin: 0;
+  padding: 0;
+  transition: all 0.2s ease;
+
+  opacity: 0;
+  pointer-events: none;
+}
+
+.dialog.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.dialog > .card {
+  position: absolute;
+  border-radius: 2px;
+  top: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 70px 20px 10px 20px;
+}
+
+.dialog > .card > .footer {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 0 20px;
+  margin: 15px 0 0 0;
+  height: 70px;
+  width: 100%;
+}
+
+.form_group {
+  position: relative;
+  padding: 15px 0 0;
+  margin-top: 10px;
+}
+
+.form_group > .form_field {
+  font-family: inherit;
+  width: 100%;
+  border: 0;
+  border-bottom: 1px solid var(--light-dark);
+  outline: 0;
+  font-size: 16px;
+  color: var(--text-white);
+  font-weight: 300;
+  padding: 7px 0;
+  background: transparent;
+  transition: border-color 0.2s;
+}
+
+.form_group > .form_field::placeholder {
+  color: transparent;
+}
+
+.form_group > .form_field:placeholder-shown ~ .form__label {
+  font-size: 16px;
+  cursor: text;
+  top: 20px;
+}
+
+.form_group > label,
+.form_group > .form_field:focus ~ .form_label {
+  position: absolute;
+  top: 0;
+  display: block;
+  transition: 0.2s;
+  font-size: 12px;
+  color: var(--text-grey);
+}
+
+.form_group > .form_field:focus ~ .form_label {
+  color: var(--text-white);
+}
+
+.form_group > .form_field:focus {
+  padding-bottom: 6px;
+  border-bottom: 2px solid var(--primary);
+}
+
 .page {
   display: block;
   position: absolute;
@@ -167,20 +312,6 @@ iframe {
   background: var(--light-dark);
 }
 
-.card {
-  display: block;
-  position: relative;
-  margin: 20px auto;
-  padding: 10px;
-  border-radius: 4px;
-  background: var(--dark);
-  width: 80%;
-  height: auto;
-  box-sizing: border-box;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-  transition: all 0.3s ease;
-}
-
 .character {
   display: block;
   position: relative;
@@ -282,11 +413,13 @@ iframe {
   position: relative;
   width: 95%;
   height: auto;
+  max-height: 30em;
   margin: 10px auto;
   padding: 5px;
   box-sizing: border-box;
   border-radius: 4px;
-  overflow: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
   background: var(--darkest);
   box-shadow: inset 0px 0px 7px 0px rgba(0,0,0,0.5);
 }
@@ -319,6 +452,12 @@ iframe {
   border: 2px solid var(--primary);
   cursor: pointer;
   font-weight: 300;
+}
+
+.btn.btn-disabled {
+  opacity: 0.7;
+  cursor: default;
+  pointer-events: none;
 }
 
 .die {

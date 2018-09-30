@@ -72,6 +72,31 @@ $('body').on('click', '.btn[data-action="expand-character"]', function() {
   $(this).parent().parent().toggleClass('active');
 });
 
+$('body').on('click', '.btn[data-action="character-import"]', function() {
+  var urlExp = /[-a-zA-Z0-9@:%_\+.~#?&//=]{2,256}\.[a-z]{2,4}\b(\/[-a-zA-Z0-9@:%_\+.~#?&//=]*)?/gi;
+  var regex = new RegExp(urlExp);
+
+  var url = prompt("Enter URL", "https://www.dndbeyond.com/profile/NAME/characters/1234567");
+  if (url.match(regex)) {
+    console.log("Adding character from url: " + url);
+    var isJson = url.substr(url.length - 5);
+    if (isJson != "/json") {
+      console.log("URL does not end with JSON, appending now.");
+      url = url + "/json";
+    }
+    nw.Clipboard.get().set(url,'text');
+    alert('URL copied to clipboard\nPlease visit the url and paste the code into the next dialog.');
+    var characterJson = prompt("JSON", "");
+    ui.addCharacter(characterJson);
+  } else {
+    alert("Invalid URL!");
+  }
+});
+
+$('body').on('click', '.btn[data-action="character-create"]', function() {
+  $('.dialog').toggleClass('active');
+});
+
 var ui = {
   addCharacter: function(data) {
     var $char = '<div class="card card-character">\

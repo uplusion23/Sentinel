@@ -10,6 +10,25 @@
     <link rel="stylesheet" href="assets/css/styles.css">
   </head>
   <body>
+    <div class="dialog">
+      <div class="card">
+        <div class="header">
+          Create New Character
+        </div>
+        <div class="form_group">
+          <input type="text" id="charname" class="form_field" placeholder="Character Name">
+          <label for="text" class="form_label">Character Name</label>
+        </div>
+        <div class="form_group">
+          <textarea type="text" id="charbio" class="form_field" placeholder="Character Biography" rows="4"></textarea>
+          <label for="text" class="form_label">Character Biography</label>
+        </div>
+        <div class="footer">
+          <a class="btn">Next Page</a>
+          <a class="btn btn-disabled">Previous Page</a>
+        </div>
+      </div>
+    </div>
     <div class="sidebar">
       <div class="header">
         <div class="logo"></div>
@@ -78,6 +97,20 @@
       </div>
     </div>
     <div class="page" data-page="settings">
+      <!--<div class="card card-settings">
+        <h2>Character Import</h2>
+        <a class="btn" data-action="character-import">Import</a>
+        <p>
+          Import a character from a url. Currently only DNDBeyond.com is supported.
+        </p>
+      </div>-->
+      <div class="card card-settings">
+        <h2>Character Creation</h2>
+        <a class="btn" data-action="character-create">Create</a>
+        <p>
+          Create a new character from scratch.
+        </p>
+      </div>
     </div>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/main.js"></script>

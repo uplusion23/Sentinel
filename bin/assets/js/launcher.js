@@ -11,6 +11,7 @@ win.setResizable(false);
 win.width = 920;
 win.height = 440;
 win.setAlwaysOnTop(true);
+win.showDevTools()
 
 var devReloadConfc = {
   key : "Ctrl+F11"
@@ -47,5 +48,6 @@ setTimeout(function() {
   }
   nw.Window.open('main.html', appOpt, function(mainWindow) {
     childWin = mainWindow;
+    childWin.showDevTools();
   });
 }, 100);
