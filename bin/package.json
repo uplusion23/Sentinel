@@ -1,0 +1,19 @@
+{
+  "main": "app.html",
+  "name": "DnD",
+  "description": "WebKit based DnD App",
+  "version": "0.3.0",
+  "keywords": [ "Dungeons and Dragons", "node-webkit" ],
+  "window": {
+    "title": "DnD - uplusion23",
+    "icon": "link.png",
+    "toolbar": true,
+    "frame": false,
+    "width": 1408,
+    "height": 792,
+    "position": "center"
+  },
+  "webkit": {
+    "plugin": true
+  }
+}

@@ -1,0 +1,34 @@
+#!/usr/bin/env node
+
+var program = require('commander');
+var edn = require('../index.js');
+var pkg = require('../package.json');
+
+program
+	.version(pkg.version)
+	.option('-s, --select [path]', 'select')
+	.option('-j, --json', 'json')
+	.option('-p, --pretty', 'pretty')
+	.parse(process.argv);
+
+process.stdin.resume();
+process.stdin.setEncoding('utf8');
+
+var input = ''
+
+process.stdin.on('data', function(data) {
+	input += data;
+});
+
+process.stdin.on('end', function() {
+	var parsed = edn.parse(input);
+	if (program.select) {
+		console.log(program.select + " => " + edn.encode(edn.atPath(parsed, program.select)));
+	} else if (program.json) {
+		console.log(edn.encodeJson(parsed, program.pretty));
+	} else {
+		console.log(edn.encode(parsed));
+	}
+	
+	process.stdin.destroy();
+});

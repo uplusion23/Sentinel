@@ -1,0 +1,5 @@
+*.log
+*.psd
+*.zip
+/nwjs/
+/backup/

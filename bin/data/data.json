@@ -1,0 +1,2684 @@
+{
+  "app": {
+    "experience": {
+      "0": {
+        "level": 1,
+        "proficiency": 2
+      },
+      "300": {
+        "level": 2,
+        "proficiency": 2
+      },
+      "900": {
+        "level": 3,
+        "proficiency": 2
+      },
+      "2700": {
+        "level": 4,
+        "proficiency": 2
+      },
+      "6500": {
+        "level": 5,
+        "proficiency": 3
+      },
+      "14000": {
+        "level": 6,
+        "proficiency": 3
+      },
+      "23000": {
+        "level": 7,
+        "proficiency": 3
+      },
+      "34000": {
+        "level": 8,
+        "proficiency": 3
+      },
+      "48000": {
+        "level": 9,
+        "proficiency": 4
+      },
+      "64000": {
+        "level": 10,
+        "proficiency": 4
+      },
+      "85000": {
+        "level": 11,
+        "proficiency": 4
+      },
+      "100000": {
+        "level": 12,
+        "proficiency": 4
+      },
+      "120000": {
+        "level": 13,
+        "proficiency": 5
+      },
+      "140000": {
+        "level": 14,
+        "proficiency": 5
+      },
+      "165000": {
+        "level": 15,
+        "proficiency": 5
+      },
+      "195000": {
+        "level": 16,
+        "proficiency": 5
+      },
+      "225000": {
+        "level": 17,
+        "proficiency": 6
+      },
+      "265000": {
+        "level": 18,
+        "proficiency": 6
+      },
+      "305000": {
+        "level": 19,
+        "proficiency": 6
+      },
+      "335000": {
+        "level": 20,
+        "proficiency": 6
+      }
+    }
+  },
+  "characters":[
+    {
+      "id": 5203111,
+      "readonlyUrl":"https://dndbeyond.com/characters/5203111",
+      "avatarUrl":"http://media-waterdeep.cursecdn.com/avatars/thumbnails/17/400/150/150/636377883039596116.jpeg",
+      "frameAvatarUrl":"",
+      "backdropAvatarUrl":"",
+      "smallBackdropAvatarUrl":"",
+      "largeBackdropAvatarUrl":"",
+      "thumbnailBackdropAvatarUrl":"",
+      "defaultBackdrop":{
+        "backdropAvatarUrl":"https://media-waterdeep.cursecdn.com/avatars/61/527/636453155878618486.jpeg",
+        "smallBackdropAvatarUrl":"https://media-waterdeep.cursecdn.com/avatars/61/528/636453155879087248.jpeg",
+        "largeBackdropAvatarUrl":"https://media-waterdeep.cursecdn.com/avatars/61/529/636453155879712283.jpeg",
+        "thumbnailBackdropAvatarUrl":"http://media-waterdeep.cursecdn.com/avatars/61/530/636453155880181287.jpeg"
+      },
+      "avatarId": 17400,
+      "frameAvatarId":null,
+      "backdropAvatarId":null,
+      "smallBackdropAvatarId":null,
+      "largeBackdropAvatarId":null,
+      "thumbnailAvatarId":null,
+      "themeColorId":435,
+      "themeColor":{
+        "themeColorId":435,
+        "themeColor":"#b59e54",
+        "backgroundColor":"#FEFEFE",
+        "name":"Paladin Gold",
+        "raceId":null,
+        "subRaceId":null,
+        "classId":4,
+        "tags":[
+          "Class Themes"
+        ]
+      },
+      "name":"Sulprax Kaldriad",
+      "gender":"Male",
+      "faith":"",
+      "age":28,
+      "hair":"None",
+      "eyes":"Orange",
+      "skin":"Blue",
+      "height":"7'",
+      "weight":290,
+      "inspiration":true,
+      "baseHitPoints":10,
+      "bonusHitPoints":null,
+      "overrideHitPoints":null,
+      "removedHitPoints":0,
+      "temporaryHitPoints":0,
+      "currentXp":202,
+      "alignmentId":3,
+      "lifestyleId":6,
+      "stats":[
+        {
+          "id":1,
+          "name":null,
+          "value":14
+        },
+        {
+          "id":2,
+          "name":null,
+          "value":12
+        },
+        {
+          "id":3,
+          "name":null,
+          "value":14
+        },
+        {
+          "id":4,
+          "name":null,
+          "value":11
+        },
+        {
+          "id":5,
+          "name":null,
+          "value":11
+        },
+        {
+          "id":6,
+          "name":null,
+          "value":11
+        }
+      ],
+      "bonusStats":[
+        {
+          "id":1,
+          "name":null,
+          "value":null
+        },
+        {
+          "id":2,
+          "name":null,
+          "value":null
+        },
+        {
+          "id":3,
+          "name":null,
+          "value":null
+        },
+        {
+          "id":4,
+          "name":null,
+          "value":null
+        },
+        {
+          "id":5,
+          "name":null,
+          "value":null
+        },
+        {
+          "id":6,
+          "name":null,
+          "value":null
+        }
+      ],
+      "overrideStats":[
+        {
+          "id":1,
+          "name":null,
+          "value":null
+        },
+        {
+          "id":2,
+          "name":null,
+          "value":null
+        },
+        {
+          "id":3,
+          "name":null,
+          "value":null
+        },
+        {
+          "id":4,
+          "name":null,
+          "value":null
+        },
+        {
+          "id":5,
+          "name":null,
+          "value":null
+        },
+        {
+          "id":6,
+          "name":null,
+          "value":null
+        }
+      ],
+      "background":{
+        "hasCustomBackground":true,
+        "definition":null,
+        "customBackground":{
+          "id":5203111,
+          "entityTypeId":1581111423,
+          "name":null,
+          "description":null,
+          "featuresBackground":null,
+          "characteristicsBackground":null,
+          "backgroundType":null
+        }
+      },
+      "race":{
+        "entityRaceId":16,
+        "entityRaceTypeId":1743923279,
+        "fullName":"Dragonborn",
+        "baseRaceId":null,
+        "description":"<p>Dragonborn look very much like dragons standing erect in humanoid form, though they lack wings or a tail.</p>\r\n<p class=\"characters-statblock\" style=\"font-family:Roboto Condensed\"><strong>Racial Traits</strong><br>+2 Strength, +1 Charisma, Draconic Ancestry, Breath Weapon, Damage Resistance</p>",
+        "avatarUrl":"http://media-waterdeep.cursecdn.com/avatars/thumbnails/6/339/315/315/636272677994998146.png",
+        "largeAvatarUrl":"http://media-waterdeep.cursecdn.com/avatars/6/340/636272677995471928.png",
+        "portraitAvatarUrl":"http://media-waterdeep.cursecdn.com/avatars/9/361/636327455772826858.jpeg",
+        "moreDetailsUrl":"/characters/races/dragonborn",
+        "isHomebrew":false,
+        "sourceIds":[
+          1,
+          2
+        ],
+        "groupIds":[
+          8
+        ],
+        "type":1,
+        "subRaceShortName":null,
+        "baseName":"Dragonborn",
+        "racialTraits":[
+          {
+            "definition":{
+              "id":67,
+              "entityTypeId":1960452172,
+              "displayOrder":1,
+              "name":"Ability Score Increase",
+              "description":"<p>Your Strength score increases by 2, and your Charisma score in<span>creases by 1.</span></p>",
+              "snippet":null,
+              "hideInBuilder":true,
+              "hideInSheet":true,
+              "activation":{
+                "activationTime":null,
+                "activationType":null
+              },
+              "sourceId":2,
+              "sourcePageNumber":34
+            }
+          },
+          {
+            "definition":{
+              "id":110,
+              "entityTypeId":1960452172,
+              "displayOrder":2,
+              "name":"Age",
+              "description":"<p>Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.</p>",
+              "snippet":null,
+              "hideInBuilder":true,
+              "hideInSheet":true,
+              "activation":{
+                "activationTime":null,
+                "activationType":null
+              },
+              "sourceId":2,
+              "sourcePageNumber":34
+            }
+          },
+          {
+            "definition":{
+              "id":111,
+              "entityTypeId":1960452172,
+              "displayOrder":3,
+              "name":"Alignment",
+              "description":"<p>Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains.</p>",
+              "snippet":null,
+              "hideInBuilder":true,
+              "hideInSheet":true,
+              "activation":{
+                "activationTime":null,
+                "activationType":null
+              },
+              "sourceId":2,
+              "sourcePageNumber":34
+            }
+          },
+          {
+            "definition":{
+              "id":112,
+              "entityTypeId":1960452172,
+              "displayOrder":4,
+              "name":"Size",
+              "description":"<p>Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.</p>",
+              "snippet":null,
+              "hideInBuilder":true,
+              "hideInSheet":true,
+              "activation":{
+                "activationTime":null,
+                "activationType":null
+              },
+              "sourceId":2,
+              "sourcePageNumber":34
+            }
+          },
+          {
+            "definition":{
+              "id":113,
+              "entityTypeId":1960452172,
+              "displayOrder":5,
+              "name":"Speed",
+              "description":"<p>Your base walking speed is 30 feet.</p>",
+              "snippet":null,
+              "hideInBuilder":true,
+              "hideInSheet":true,
+              "activation":{
+                "activationTime":null,
+                "activationType":null
+              },
+              "sourceId":2,
+              "sourcePageNumber":34
+            }
+          },
+          {
+            "definition":{
+              "id":3,
+              "entityTypeId":1960452172,
+              "displayOrder":6,
+              "name":"Draconic Ancestry",
+              "description":"<p>You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.</p>\r\n<p><strong>Draconic Ancestry</strong></p>\r\n<table>\r\n<thead>\r\n<tr>\r\n<th style=\"text-align:left\">Dragon</th>\r\n<th style=\"text-align:left\">Damage Type</th>\r\n<th style=\"text-align:left\">Breath Weapon</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td style=\"text-align:left\">Black</td>\r\n<td style=\"text-align:left\">Acid</td>\r\n<td style=\"text-align:left\">5 by 30 ft. line (Dex. save)</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:left\">Blue</td>\r\n<td style=\"text-align:left\">Lightning</td>\r\n<td style=\"text-align:left\">5 by 30 ft. line (Dex. save)</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:left\">Brass</td>\r\n<td style=\"text-align:left\">Fire</td>\r\n<td style=\"text-align:left\">5 by 30 ft. line (Dex. save)</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:left\">Bronze</td>\r\n<td style=\"text-align:left\">Lightning</td>\r\n<td style=\"text-align:left\">5 by 30 ft. line (Dex. save)</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:left\">Copper</td>\r\n<td style=\"text-align:left\">Acid</td>\r\n<td style=\"text-align:left\">5 by 30 ft. line (Dex. save)</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:left\">Gold</td>\r\n<td style=\"text-align:left\">Fire</td>\r\n<td style=\"text-align:left\">15 ft. cone (Dex. save)</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:left\">Green</td>\r\n<td style=\"text-align:left\">Poison</td>\r\n<td style=\"text-align:left\">15 ft. cone (Con. save)</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:left\">Red</td>\r\n<td style=\"text-align:left\">Fire</td>\r\n<td style=\"text-align:left\">15 ft. cone (Dex. save)</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:left\">Silver</td>\r\n<td style=\"text-align:left\">Cold</td>\r\n<td style=\"text-align:left\">15 ft. cone (Con. save)</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:left\">White</td>\r\n<td style=\"text-align:left\">Cold</td>\r\n<td style=\"text-align:left\">15 ft. cone (Con. save)</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+              "snippet":"You gain a breath weapon and damage resistance with your chosen dragon type.",
+              "hideInBuilder":false,
+              "hideInSheet":false,
+              "activation":{
+                "activationTime":null,
+                "activationType":null
+              },
+              "sourceId":2,
+              "sourcePageNumber":34
+            }
+          },
+          {
+            "definition":{
+              "id":4,
+              "entityTypeId":1960452172,
+              "displayOrder":7,
+              "name":"Breath Weapon",
+              "description":"<p>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation. When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. After you use your breath weapon, you can&rsquo;t use it again until you complete a short or long rest.</p>",
+              "snippet":"Once per short rest as an action, exhale destructive energy based on your Draconic Ancestry. Each creature in the area must make a DC {{savedc:con}} saving throw (type determined by your ancestry), taking 2d6 ([6th] 3d6, [11th] 4d6, [16th] 5d6) on a failed save, and half damage on a successful one.",
+              "hideInBuilder":false,
+              "hideInSheet":false,
+              "activation":{
+                "activationTime":1,
+                "activationType":1
+              },
+              "sourceId":2,
+              "sourcePageNumber":34
+            }
+          },
+          {
+            "definition":{
+              "id":5,
+              "entityTypeId":1960452172,
+              "displayOrder":8,
+              "name":"Damage Resistance",
+              "description":"<p>You have resistance to the damage type associated with your draconic ancestry.</p>",
+              "snippet":"You have resistance to the damage type associated with your draconic ancestry.",
+              "hideInBuilder":false,
+              "hideInSheet":false,
+              "activation":{
+                "activationTime":null,
+                "activationType":null
+              },
+              "sourceId":2,
+              "sourcePageNumber":34
+            }
+          },
+          {
+            "definition":{
+              "id":83,
+              "entityTypeId":1960452172,
+              "displayOrder":9,
+              "name":"Languages",
+              "description":"<p>You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</p>",
+              "snippet":null,
+              "hideInBuilder":true,
+              "hideInSheet":true,
+              "activation":{
+                "activationTime":null,
+                "activationType":null
+              },
+              "sourceId":2,
+              "sourcePageNumber":34
+            }
+          }
+        ],
+        "weightSpeeds":{
+          "normal":{
+            "walk":30,
+            "fly":0,
+            "burrow":0,
+            "swim":0,
+            "climb":0
+          },
+          "encumbered":null,
+          "heavilyEncumbered":null,
+          "pushDragLift":null,
+          "override":null
+        },
+        "featIds":[
+          82,
+          84,
+          211,
+          222,
+          225,
+          241,
+          242,
+          251,
+          318,
+          333,
+          358,
+          579,
+          605,
+          662,
+          667,
+          669,
+          696,
+          741,
+          742,
+          749,
+          804,
+          874,
+          875,
+          1188,
+          1826,
+          1836,
+          1837,
+          2206,
+          2240,
+          2708,
+          3077,
+          3193,
+          3272,
+          3283,
+          3284,
+          3370,
+          3428,
+          3526,
+          3629,
+          3650,
+          3757,
+          4095,
+          4096,
+          4097,
+          4140,
+          4149,
+          4312,
+          4328,
+          4354,
+          4432,
+          4438,
+          4697,
+          4700,
+          4705,
+          4747,
+          205,
+          5132,
+          5134,
+          5301,
+          5314,
+          5644,
+          5666,
+          5815,
+          5987,
+          6453,
+          6794,
+          6810,
+          6811,
+          6815,
+          6918,
+          6970,
+          7049,
+          7279,
+          7282,
+          7336,
+          7355,
+          7531,
+          7770,
+          7771,
+          8051,
+          8256,
+          8333,
+          8646,
+          8820,
+          8832,
+          9064,
+          9229,
+          9476,
+          9552,
+          9554,
+          9646,
+          9647,
+          9829,
+          9905,
+          10058,
+          10665,
+          10936,
+          11142,
+          11175,
+          11452,
+          5073,
+          11078,
+          12008,
+          12015,
+          12056,
+          12075,
+          12406,
+          12437,
+          12438,
+          12440,
+          12540,
+          12908,
+          13331,
+          13334,
+          13423,
+          13454,
+          13455,
+          13610,
+          13807,
+          13822,
+          13825,
+          14325,
+          14437,
+          14452,
+          14629,
+          14630,
+          14806,
+          14815,
+          14846,
+          14953,
+          14957,
+          15098,
+          13082,
+          15196,
+          15323,
+          15328,
+          15354,
+          15433,
+          15824,
+          15877,
+          15948,
+          15955,
+          16200,
+          16266,
+          16487,
+          16581,
+          16633,
+          16720,
+          16721,
+          16891,
+          17364,
+          17521,
+          17644,
+          17895,
+          18048,
+          18573,
+          18903,
+          18922,
+          18975,
+          18995,
+          19076,
+          19080,
+          19234,
+          19235,
+          19236,
+          19301,
+          19302,
+          19635,
+          19636,
+          19707,
+          19811,
+          19826,
+          19831,
+          19974,
+          20001,
+          20002,
+          20003,
+          20086,
+          20156,
+          20283,
+          20306,
+          20325,
+          20327,
+          20439,
+          20656,
+          20767,
+          20770,
+          20824,
+          20880,
+          21009,
+          21176,
+          21180,
+          21282,
+          21283,
+          21284,
+          21390,
+          21549,
+          22056,
+          22304,
+          22476,
+          22592,
+          22700,
+          22916,
+          22917,
+          22983,
+          23432,
+          23496,
+          23577,
+          23576,
+          23578,
+          23644,
+          23706,
+          23813,
+          23883,
+          24041,
+          24042,
+          24117,
+          24122,
+          24123,
+          24188,
+          24348,
+          24511,
+          24722,
+          24724,
+          25012,
+          25318,
+          25411,
+          25451,
+          25545,
+          25546,
+          25547,
+          25548,
+          25726,
+          25727,
+          25761,
+          25817,
+          26010,
+          26033,
+          26048,
+          26137,
+          26372,
+          26673,
+          26732,
+          26781,
+          26921,
+          27013,
+          27159,
+          27163,
+          27223,
+          27278,
+          27279,
+          27476,
+          27480,
+          27483,
+          27641,
+          27726,
+          27729,
+          27826,
+          27844,
+          27939,
+          28202,
+          28200,
+          28258,
+          28531,
+          28585,
+          29052,
+          29053,
+          29113,
+          29252,
+          29255,
+          29259,
+          29322,
+          29405,
+          29695,
+          30013,
+          30014,
+          30412,
+          30460,
+          30463,
+          30603,
+          30702,
+          30843,
+          30855,
+          30860,
+          30896,
+          30900,
+          31362,
+          31840,
+          31863,
+          32018,
+          32021,
+          32123,
+          32291,
+          32292,
+          32299,
+          32301,
+          32342,
+          32389,
+          32346,
+          32556,
+          32790,
+          32893,
+          33006,
+          33258,
+          33291,
+          33697,
+          33918,
+          33953,
+          34003,
+          34215,
+          34216,
+          34385,
+          34386,
+          34387,
+          34419,
+          34776,
+          34869,
+          34898,
+          35238,
+          35371,
+          35376,
+          35436,
+          35773,
+          35774,
+          35932,
+          36105,
+          36106,
+          36136,
+          36229,
+          36328,
+          36419,
+          36446,
+          36581,
+          36692,
+          37124
+        ],
+        "size":"Medium"
+      },
+      "notes":{
+        "allies":null,
+        "personalPossessions":null,
+        "otherHoldings":null,
+        "organizations":"Widowmakers",
+        "enemies":"",
+        "backstory":null,
+        "otherNotes":null
+      },
+      "traits":{
+        "personalityTraits":"Does not trust Assassins",
+        "ideals":"Will follow on moral code, whether the law grants it or not",
+        "bonds":"",
+        "flaws":"Cannot wear shoes",
+        "appearance":null
+      },
+      "preferences":{
+        "useHomebrewContent":true,
+        "progressionType":2,
+        "encumbranceType":1,
+        "ignoreCoinWeight":true,
+        "hitPointType":1,
+        "showUnarmedStrike":true,
+        "showCompanions":false,
+        "showWildShape":false,
+        "primarySense":5,
+        "primaryMovement":1,
+        "privacyType":3,
+        "sharingType":2,
+        "abilityScoreDisplayType":2
+      },
+      "lifestyle":null,
+      "inventory":[
+        {
+          "displayAsAttack":null,
+          "id":44536760,
+          "entityTypeId":1439493548,
+          "definition":{
+            "baseItemId":4,
+            "damage":{
+              "diceCount":1,
+              "diceValue":8,
+              "diceMultiplier":null,
+              "fixedValue":null,
+              "diceString":"1d8"
+            },
+            "damageType":"Slashing",
+            "fixedDamage":null,
+            "properties":[
+              {
+                "id":77,
+                "name":"Versatile",
+                "description":"This weapon can be used with one or two hands. A damage value in parentheses appears with the property--the damage when the weapon is used with two hands to make a melee attack.\r\n\r\n",
+                "notes":"1d10"
+              }
+            ],
+            "attackType":1,
+            "categoryId":2,
+            "range":5,
+            "longRange":5,
+            "isMonkWeapon":false,
+            "weaponBehaviors":[
+
+            ],
+            "id":4,
+            "baseTypeId":1782728300,
+            "entityTypeId":1782728300,
+            "canEquip":true,
+            "magic":false,
+            "name":"Longsword",
+            "snippet":null,
+            "weight":3.00,
+            "type":"Longsword",
+            "description":"<p>Proficiency with a longsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.</p>",
+            "canAttune":false,
+            "attunementDescription":null,
+            "rarity":"Common",
+            "isHomebrew":false,
+            "version":null,
+            "sourceId":null,
+            "sourcePageNumber":null,
+            "stackable":false,
+            "bundleSize":1,
+            "avatarUrl":null,
+            "largeAvatarUrl":null,
+            "filterType":"Weapon",
+            "cost":15.0000,
+            "isPack":false,
+            "tags":[
+              "Damage",
+              "Combat"
+            ],
+            "grantedModifiers":[
+
+            ]
+          },
+          "quantity":1,
+          "isAttuned":null,
+          "equipped":false,
+          "limitedUse":null
+        },
+        {
+          "displayAsAttack":null,
+          "id":44536761,
+          "entityTypeId":1439493548,
+          "definition":{
+            "baseItemId":4,
+            "damage":{
+              "diceCount":1,
+              "diceValue":8,
+              "diceMultiplier":null,
+              "fixedValue":null,
+              "diceString":"1d8"
+            },
+            "damageType":"Slashing",
+            "fixedDamage":null,
+            "properties":[
+              {
+                "id":77,
+                "name":"Versatile",
+                "description":"This weapon can be used with one or two hands. A damage value in parentheses appears with the property--the damage when the weapon is used with two hands to make a melee attack.\r\n\r\n",
+                "notes":"1d10"
+              }
+            ],
+            "attackType":1,
+            "categoryId":2,
+            "range":5,
+            "longRange":5,
+            "isMonkWeapon":false,
+            "weaponBehaviors":[
+
+            ],
+            "id":4,
+            "baseTypeId":1782728300,
+            "entityTypeId":1782728300,
+            "canEquip":true,
+            "magic":false,
+            "name":"Longsword",
+            "snippet":null,
+            "weight":3.00,
+            "type":"Longsword",
+            "description":"<p>Proficiency with a longsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.</p>",
+            "canAttune":false,
+            "attunementDescription":null,
+            "rarity":"Common",
+            "isHomebrew":false,
+            "version":null,
+            "sourceId":null,
+            "sourcePageNumber":null,
+            "stackable":false,
+            "bundleSize":1,
+            "avatarUrl":null,
+            "largeAvatarUrl":null,
+            "filterType":"Weapon",
+            "cost":15.0000,
+            "isPack":false,
+            "tags":[
+              "Damage",
+              "Combat"
+            ],
+            "grantedModifiers":[
+
+            ]
+          },
+          "quantity":1,
+          "isAttuned":null,
+          "equipped":false,
+          "limitedUse":null
+        }
+      ],
+      "currencies":{
+        "cp":0,
+        "sp":0,
+        "gp":160,
+        "ep":0,
+        "pp":0
+      },
+      "classes":[
+        {
+          "id":5628570,
+          "level":1,
+          "isStartingClass":true,
+          "hitDiceUsed":0,
+          "definition":{
+            "id":4,
+            "name":"Paladin",
+            "description":"<p>A holy warrior bound to a sacred oath</p>\r\n<p class=\"characters-statblock\" style=\"font-family:Roboto Condensed;font-size:14px\"><strong>Hit Die:</strong> d10<br><strong>Primary Ability:</strong>&nbsp;Strength &amp; Charisma<br><strong>Saves:</strong>&nbsp;Wisdom &amp; Charisma</p>",
+            "equipmentDescription":"<p>You start with the following equipment, in addition to the equipment granted by your background:</p>\r\n<ul>\r\n<li>(<span>a</span>) a martial weapon and a shield or (<span>b</span>) two martial weapons</li>\r\n<li>(<span>a</span>) five javelins or (<span>b</span>) any simple melee weapon</li>\r\n<li>(<span>a</span>) a priest&rsquo;s pack or (<span>b</span>) an explorer&rsquo;s pack</li>\r\n<li>Chain mail and a holy symbol</li>\r\n</ul>",
+            "parentClassId":null,
+            "avatarUrl":"https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/364/315/315/636272701936950702.png",
+            "largeAvatarUrl":"https://media-waterdeep.cursecdn.com/avatars/6/365/636272701937419552.png",
+            "portraitAvatarUrl":"https://media-waterdeep.cursecdn.com/avatars/10/6/636336417477714942.jpeg",
+            "moreDetailsUrl":"/characters/classes/paladin",
+            "spellCastingAbilityId":6,
+            "sourceIds":[
+              1
+            ],
+            "hitDice":10,
+            "classFeatures":[
+              {
+                "id":537,
+                "name":"Hit Points",
+                "prerequisite":null,
+                "description":"<p><strong><span>Hit Dice: </span></strong>1d10 per <span>paladin level<br></span><strong><span>Hit Points at 1st Level: </span></strong>10 + your Constitu<span>tion modifier<br></span><strong><span>Hit Points at Higher Levels: </span></strong>1d10 (or 6) + your Constitution modifier per paladin le<span>vel after 1st</span></p>",
+                "requiredLevel":1,
+                "displayOrder":1
+              },
+              {
+                "id":465,
+                "name":"Proficiencies",
+                "prerequisite":null,
+                "description":"<p><strong><span>Armor: </span></strong>All a<span>rmor, shields<br></span><strong><span>Weapons: </span></strong>Simple weapons, ma<span>rtial weapons<br></span><strong><span>Tools: </span></strong>None<br><strong><span>Saving Throws: </span></strong>Wis<span>dom, Charisma<br></span><strong><span>Skills: </span></strong>Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion,<span> and Religion</span></p>",
+                "requiredLevel":1,
+                "displayOrder":2
+              },
+              {
+                "id":260,
+                "name":"Divine Sense",
+                "prerequisite":null,
+                "description":"<p>The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the <span><span>hallow</span></span><span> spell.</span></p>\r\n<p>You can use this feature a number of ti<span>mes equal to </span>1 + your Charisma modifier. When you finish a long rest, you regain all e<span>xpended uses.</span></p>",
+                "requiredLevel":1,
+                "displayOrder":3
+              },
+              {
+                "id":261,
+                "name":"Lay on Hands",
+                "prerequisite":null,
+                "description":"<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your palad<span>in level &times; 5.</span></p>\r\n<p>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining <span>in your pool.</span></p>\r\n<p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately <span>for each one.</span></p>\r\n<p>This feature has no effect on undead an<span>d constructs.</span></p>",
+                "requiredLevel":1,
+                "displayOrder":4
+              },
+              {
+                "id":262,
+                "name":"Fighting Style",
+                "prerequisite":null,
+                "description":"<p>At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can&rsquo;t take a Fighting Style option more than once, even if you later get to <span>choose again.</span></p>",
+                "requiredLevel":2,
+                "displayOrder":5
+              },
+              {
+                "id":263,
+                "name":"Spellcasting",
+                "prerequisite":null,
+                "description":"<p>By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See <span style=\"color:#9c0\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting\" rel=\"nofollow\">Spells Rules</a></span> for the general rules of spellcasting and the <span style=\"color:#936\"><a style=\"color:#704cd9\" href=\"https://www.dndbeyond.com/spells?filter-class=4&filter-search=&filter-sub-class=&filter-concentration=&filter-ritual=&filter-unlocked-content=\" rel=\"nofollow\">Spells Listing</a></span>&nbsp;for the paladin<span>&nbsp;spell list.</span></p>\r\n<h5>Preparing and Casting Spells</h5>\r\n<p>The Paladin table shows how many spell slots you have to cast your spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell&rsquo;s level or higher. You regain all expended spell slots when you finish<span> a long rest.</span></p>\r\n<p>You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have<span> spell slots.</span></p>\r\n<p>For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell <span>cure wounds,</span> you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn&rsquo;t remove it from your list of pre<span>pared spells.</span></p>\r\n<p>You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell <span>on your list.</span></p>\r\n<h5>Spellcasting Ability</h5>\r\n<p>Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.</p>\r\n<p><strong><span>Spell save DC </span></strong>= 8 + your proficiency bonus + your Charisma modifier</p>\r\n<p><strong><span>Spell attack modifier </span></strong>= your proficiency bonus + your Charisma modifier</p>\r\n<h5>Spellcasting Focus</h5>\r\n<p>You can use a holy symbol (see the <span style=\"color:#47d18c\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/equipment#HolySymbol\" rel=\"nofollow\">Adventuring Gear</a></span> section) as a spellcasting focus for your pa<span>ladin spells.</span></p>",
+                "requiredLevel":2,
+                "displayOrder":6
+              },
+              {
+                "id":264,
+                "name":"Divine Smite",
+                "prerequisite":null,
+                "description":"<p>Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon&rsquo;s damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undea<span>d or a fiend.</span></p>",
+                "requiredLevel":2,
+                "displayOrder":7
+              },
+              {
+                "id":265,
+                "name":"Divine Health",
+                "prerequisite":null,
+                "description":"<p>By 3rd level, the divine magic flowing through you makes you immun<span>e to disease.</span></p>",
+                "requiredLevel":3,
+                "displayOrder":8
+              },
+              {
+                "id":266,
+                "name":"Sacred Oath",
+                "prerequisite":null,
+                "description":"<p>When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose the Oath of Devotion detailed at the end of the class<span> description or one from another source.</span></p>\r\n<p>Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divi<span>nity feature.</span></p>\r\n<h4>Oath Spells</h4>\r\n<p>Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don&rsquo;t count against the number of spells you can prep<span>are each day.</span></p>\r\n<p>If you gain an oath spell that doesn&rsquo;t appear on the paladin spell list, the spell is nonetheless a paladin s<span>pell for you.</span></p>\r\n<h4>Channel Divinity</h4>\r\n<p>Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains h<span>ow to use it.</span></p>\r\n<p>When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Di<span>vinity again.</span></p>\r\n<p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin s<span>pell save DC.</span></p>",
+                "requiredLevel":3,
+                "displayOrder":9
+              },
+              {
+                "id":268,
+                "name":"Ability Score Improvement",
+                "prerequisite":null,
+                "description":"<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.</span></p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</span></p>",
+                "requiredLevel":4,
+                "displayOrder":10
+              },
+              {
+                "id":269,
+                "name":"Extra Attack",
+                "prerequisite":null,
+                "description":"<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action <span>on your turn.</span></p>",
+                "requiredLevel":5,
+                "displayOrder":11
+              },
+              {
+                "id":270,
+                "name":"Aura of Protection",
+                "prerequisite":null,
+                "description":"<p>Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to gran<span>t this bonus.</span></p>\r\n<p>At 18th level, the range of this aura increase<span>s to 30 feet.</span></p>",
+                "requiredLevel":6,
+                "displayOrder":12
+              },
+              {
+                "id":275,
+                "name":"Ability Score Improvement",
+                "prerequisite":null,
+                "description":"<p>When you reach 8th level, and again at 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.</span></p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</span></p>",
+                "requiredLevel":8,
+                "displayOrder":13
+              },
+              {
+                "id":271,
+                "name":"Aura of Courage",
+                "prerequisite":null,
+                "description":"<p>Starting at 10th level, you and friendly creatures within 10 feet of you can&rsquo;t be frightened while you a<span>re conscious.</span></p>\r\n<p>At 18th level, the range of this aura increase<span>s to 30 feet.</span></p>",
+                "requiredLevel":10,
+                "displayOrder":14
+              },
+              {
+                "id":272,
+                "name":"Improved Divine Smite",
+                "prerequisite":null,
+                "description":"<p>By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your Divine Smite with an attack, you add this damage to the extra damage of your <span>Divine Smite.</span></p>",
+                "requiredLevel":11,
+                "displayOrder":15
+              },
+              {
+                "id":276,
+                "name":"Ability Score Improvement",
+                "prerequisite":null,
+                "description":"<p>When you reach 12th level, and again at 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.</span></p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</span></p>",
+                "requiredLevel":12,
+                "displayOrder":16
+              },
+              {
+                "id":273,
+                "name":"Cleansing Touch",
+                "prerequisite":null,
+                "description":"<p>Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature th<span>at you touch.</span></p>\r\n<p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish<span> a long rest.</span></p>",
+                "requiredLevel":14,
+                "displayOrder":17
+              },
+              {
+                "id":277,
+                "name":"Ability Score Improvement",
+                "prerequisite":null,
+                "description":"<p>When you reach 16th level, and again at 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.</span></p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</span></p>",
+                "requiredLevel":16,
+                "displayOrder":18
+              },
+              {
+                "id":274,
+                "name":"Aura Improvements",
+                "prerequisite":null,
+                "description":"<p>At 18th level, the range of your auras increase<span>&nbsp;to 30 feet.</span></p>",
+                "requiredLevel":18,
+                "displayOrder":19
+              },
+              {
+                "id":278,
+                "name":"Ability Score Improvement",
+                "prerequisite":null,
+                "description":"<p>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.</span></p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</span></p>",
+                "requiredLevel":19,
+                "displayOrder":20
+              }
+            ],
+            "wealthDice":{
+              "diceCount":5,
+              "diceValue":4,
+              "diceMultiplier":10,
+              "fixedValue":null,
+              "diceString":"5d4"
+            },
+            "canCastSpells":true,
+            "knowsAllSpells":true,
+            "spellPrepareType":2,
+            "spellContainerName":null,
+            "sourceId":1,
+            "sourcePageNumber":82
+          },
+          "subclassDefinition":null,
+          "classFeatures":[
+            {
+              "definition":{
+                "id":537,
+                "entityTypeId":12168134,
+                "displayOrder":1,
+                "name":"Hit Points",
+                "description":"<p><strong><span>Hit Dice: </span></strong>1d10 per <span>paladin level<br></span><strong><span>Hit Points at 1st Level: </span></strong>10 + your Constitu<span>tion modifier<br></span><strong><span>Hit Points at Higher Levels: </span></strong>1d10 (or 6) + your Constitution modifier per paladin le<span>vel after 1st</span></p>",
+                "snippet":null,
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"",
+                "requiredLevel":1,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":true,
+                "sourceId":2,
+                "sourcePageNumber":84
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":465,
+                "entityTypeId":12168134,
+                "displayOrder":2,
+                "name":"Proficiencies",
+                "description":"<p><strong><span>Armor: </span></strong>All a<span>rmor, shields<br></span><strong><span>Weapons: </span></strong>Simple weapons, ma<span>rtial weapons<br></span><strong><span>Tools: </span></strong>None<br><strong><span>Saving Throws: </span></strong>Wis<span>dom, Charisma<br></span><strong><span>Skills: </span></strong>Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion,<span> and Religion</span></p>",
+                "snippet":null,
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"<p><strong><span>Armor:</span></strong> <span>Light armor, medium&nbsp;</span>a<span>rmor, shields<br></span><strong><span>Weapons: </span></strong>Simple weapons, ma<span>rtial weapons</span></p>",
+                "requiredLevel":1,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":true,
+                "sourceId":2,
+                "sourcePageNumber":84
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":260,
+                "entityTypeId":12168134,
+                "displayOrder":3,
+                "name":"Divine Sense",
+                "description":"<p>The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the <span><span>hallow</span></span><span> spell.</span></p>\r\n<p>You can use this feature a number of ti<span>mes equal to </span>1 + your Charisma modifier. When you finish a long rest, you regain all e<span>xpended uses.</span></p>",
+                "snippet":"As an action, you can detect good and evil. Until the end of your next turn, you can sense anything affected by the hallow spell or know the location of any celestial, fiend, undead within 60 ft. that is not behind total cover. You can use this feature {{(modifier:cha)+1#unsigned}} times per long rest.",
+                "activation":{
+                  "activationTime":1,
+                  "activationType":1
+                },
+                "multiClassDescription":"",
+                "requiredLevel":1,
+                "isSubClassFeature":false,
+                "limitedUse":[
+                  {
+                    "level":null,
+                    "uses":1
+                  }
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":84
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":261,
+                "entityTypeId":12168134,
+                "displayOrder":4,
+                "name":"Lay on Hands",
+                "description":"<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your palad<span>in level &times; 5.</span></p>\r\n<p>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining <span>in your pool.</span></p>\r\n<p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately <span>for each one.</span></p>\r\n<p>This feature has no effect on undead an<span>d constructs.</span></p>",
+                "snippet":"You have a pool of healing power that can restore {{classlevel*5#unsigned}} HP per long rest. As an action, you can touch a creature to restore any number of HP remaining in the pool, or 5 HP to either cure a disease or neutralize a poison affecting the creature.",
+                "activation":{
+                  "activationTime":1,
+                  "activationType":1
+                },
+                "multiClassDescription":"",
+                "requiredLevel":1,
+                "isSubClassFeature":false,
+                "limitedUse":[
+                  {
+                    "level":1,
+                    "uses":5
+                  },
+                  {
+                    "level":2,
+                    "uses":10
+                  },
+                  {
+                    "level":3,
+                    "uses":15
+                  },
+                  {
+                    "level":4,
+                    "uses":20
+                  },
+                  {
+                    "level":5,
+                    "uses":25
+                  },
+                  {
+                    "level":6,
+                    "uses":30
+                  },
+                  {
+                    "level":7,
+                    "uses":35
+                  },
+                  {
+                    "level":8,
+                    "uses":40
+                  },
+                  {
+                    "level":9,
+                    "uses":45
+                  },
+                  {
+                    "level":10,
+                    "uses":50
+                  },
+                  {
+                    "level":11,
+                    "uses":55
+                  },
+                  {
+                    "level":12,
+                    "uses":60
+                  },
+                  {
+                    "level":13,
+                    "uses":65
+                  },
+                  {
+                    "level":14,
+                    "uses":70
+                  },
+                  {
+                    "level":15,
+                    "uses":75
+                  },
+                  {
+                    "level":16,
+                    "uses":80
+                  },
+                  {
+                    "level":17,
+                    "uses":85
+                  },
+                  {
+                    "level":18,
+                    "uses":90
+                  },
+                  {
+                    "level":19,
+                    "uses":95
+                  },
+                  {
+                    "level":20,
+                    "uses":100
+                  }
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":84
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":262,
+                "entityTypeId":12168134,
+                "displayOrder":5,
+                "name":"Fighting Style",
+                "description":"<p>At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can&rsquo;t take a Fighting Style option more than once, even if you later get to <span>choose again.</span></p>",
+                "snippet":"You adopt a style of fighting as your specialty.",
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"",
+                "requiredLevel":2,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":84
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":263,
+                "entityTypeId":12168134,
+                "displayOrder":6,
+                "name":"Spellcasting",
+                "description":"<p>By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See <span style=\"color:#9c0\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting\" rel=\"nofollow\">Spells Rules</a></span> for the general rules of spellcasting and the <span style=\"color:#936\"><a style=\"color:#704cd9\" href=\"https://www.dndbeyond.com/spells?filter-class=4&filter-search=&filter-sub-class=&filter-concentration=&filter-ritual=&filter-unlocked-content=\" rel=\"nofollow\">Spells Listing</a></span>&nbsp;for the paladin<span>&nbsp;spell list.</span></p>\r\n<h5>Preparing and Casting Spells</h5>\r\n<p>The Paladin table shows how many spell slots you have to cast your spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell&rsquo;s level or higher. You regain all expended spell slots when you finish<span> a long rest.</span></p>\r\n<p>You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have<span> spell slots.</span></p>\r\n<p>For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell <span>cure wounds,</span> you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn&rsquo;t remove it from your list of pre<span>pared spells.</span></p>\r\n<p>You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell <span>on your list.</span></p>\r\n<h5>Spellcasting Ability</h5>\r\n<p>Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.</p>\r\n<p><strong><span>Spell save DC </span></strong>= 8 + your proficiency bonus + your Charisma modifier</p>\r\n<p><strong><span>Spell attack modifier </span></strong>= your proficiency bonus + your Charisma modifier</p>\r\n<h5>Spellcasting Focus</h5>\r\n<p>You can use a holy symbol (see the <span style=\"color:#47d18c\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/equipment#HolySymbol\" rel=\"nofollow\">Adventuring Gear</a></span> section) as a spellcasting focus for your pa<span>ladin spells.</span></p>",
+                "snippet":"You can cast prepared paladin spells using CHA as your spellcasting modifier (Spell DC {{savedc:cha}}, Spell Attack {{spellattack:cha}}). You can use a holy symbol as a spellcasting focus.",
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"<p><em>This feature is affected by multiclassing</em>. See the <a href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/customization-options#ClassFeatures\" rel=\"nofollow\">Multiclassing</a> rules for more information.</p>\r\n<h4>Spellcasting</h4>\r\n<p>By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See <span style=\"color:#9c0\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting\" rel=\"nofollow\">Spells Rules</a></span> for the general rules of spellcasting and the <span style=\"color:#936\"><a style=\"color:#704cd9\" href=\"https://www.dndbeyond.com/spells?filter-class=4&filter-search=&filter-sub-class=&filter-concentration=&filter-ritual=&filter-unlocked-content=\" rel=\"nofollow\">Spells Listing</a></span>&nbsp;for the paladin<span>&nbsp;spell list.</span></p>\r\n<h5>Preparing and Casting Spells</h5>\r\n<p>The Paladin table shows how many spell slots you have to cast your spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell&rsquo;s level or higher. You regain all expended spell slots when you finish<span> a long rest.</span></p>\r\n<p>You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have<span> spell slots.</span></p>\r\n<p>For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell <span>cure wounds,</span> you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn&rsquo;t remove it from your list of pre<span>pared spells.</span></p>\r\n<p>You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell <span>on your list.</span></p>\r\n<h5>Spellcasting Ability</h5>\r\n<p>Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.</p>\r\n<p><strong><span>Spell save DC </span></strong>= 8 + your proficiency bonus + your Charisma modifier</p>\r\n<p><strong><span>Spell attack modifier </span></strong>= your proficiency bonus + your Charisma modifier</p>\r\n<h5>Spellcasting Focus</h5>\r\n<p>You can use a holy symbol (see the <span style=\"color:#47d18c\"><a style=\"color:#47d18c\" href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/equipment#HolySymbol\" rel=\"nofollow\">Adventuring Gear</a></span> section) as a spellcasting focus for your pa<span>ladin spells.</span></p>",
+                "requiredLevel":2,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":84
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":264,
+                "entityTypeId":12168134,
+                "displayOrder":7,
+                "name":"Divine Smite",
+                "description":"<p>Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon&rsquo;s damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undea<span>d or a fiend.</span></p>",
+                "snippet":"When you hit with a melee weapon attack, you can expend one spell slot to deal 2d8 extra radiant damage to the target plus 1d8 for each spell level higher than 1st (max 5d8) and plus 1d8 against undead or fiends.",
+                "activation":{
+                  "activationTime":null,
+                  "activationType":8
+                },
+                "multiClassDescription":"",
+                "requiredLevel":2,
+                "isSubClassFeature":false,
+                "limitedUse":[
+                  {
+                    "level":null,
+                    "uses":1
+                  }
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":265,
+                "entityTypeId":12168134,
+                "displayOrder":8,
+                "name":"Divine Health",
+                "description":"<p>By 3rd level, the divine magic flowing through you makes you immun<span>e to disease.</span></p>",
+                "snippet":"You are immune to disease.",
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"",
+                "requiredLevel":3,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":266,
+                "entityTypeId":12168134,
+                "displayOrder":9,
+                "name":"Sacred Oath",
+                "description":"<p>When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose the Oath of Devotion detailed at the end of the class<span> description or one from another source.</span></p>\r\n<p>Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divi<span>nity feature.</span></p>\r\n<h4>Oath Spells</h4>\r\n<p>Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don&rsquo;t count against the number of spells you can prep<span>are each day.</span></p>\r\n<p>If you gain an oath spell that doesn&rsquo;t appear on the paladin spell list, the spell is nonetheless a paladin s<span>pell for you.</span></p>\r\n<h4>Channel Divinity</h4>\r\n<p>Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains h<span>ow to use it.</span></p>\r\n<p>When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Di<span>vinity again.</span></p>\r\n<p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin s<span>pell save DC.</span></p>",
+                "snippet":null,
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"",
+                "requiredLevel":3,
+                "isSubClassFeature":false,
+                "limitedUse":[
+                  {
+                    "level":null,
+                    "uses":1
+                  }
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":268,
+                "entityTypeId":12168134,
+                "displayOrder":10,
+                "name":"Ability Score Improvement",
+                "description":"<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.</span></p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</span></p>",
+                "snippet":null,
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"",
+                "requiredLevel":4,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":true,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":269,
+                "entityTypeId":12168134,
+                "displayOrder":11,
+                "name":"Extra Attack",
+                "description":"<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action <span>on your turn.</span></p>",
+                "snippet":"You can attack twice, instead of once, whenever you take the Attack action on your turn.",
+                "activation":{
+                  "activationTime":null,
+                  "activationType":8
+                },
+                "multiClassDescription":"<p><em>This feature could be affected by multiclassing</em>. See the <a href=\"https://www.dndbeyond.com/compendium/rules/basic-rules/customization-options#ClassFeatures\" rel=\"nofollow\">Multiclassing</a> rules for more information.</p>\r\n<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action <span>on your turn.</span></p>",
+                "requiredLevel":5,
+                "isSubClassFeature":false,
+                "limitedUse":[
+                  {
+                    "level":null,
+                    "uses":1
+                  }
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":270,
+                "entityTypeId":12168134,
+                "displayOrder":12,
+                "name":"Aura of Protection",
+                "description":"<p>Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to gran<span>t this bonus.</span></p>\r\n<p>At 18th level, the range of this aura increase<span>s to 30 feet.</span></p>",
+                "snippet":"While you are conscious, you grant all friendly creatures (including you) within 10 ft. a {{modifier:cha@min:1}} bonus to all saving throws. [18th] Range increases to 30 ft.",
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"",
+                "requiredLevel":6,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":275,
+                "entityTypeId":12168134,
+                "displayOrder":13,
+                "name":"Ability Score Improvement",
+                "description":"<p>When you reach 8th level, and again at 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.</span></p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</span></p>",
+                "snippet":null,
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"",
+                "requiredLevel":8,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":true,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":271,
+                "entityTypeId":12168134,
+                "displayOrder":14,
+                "name":"Aura of Courage",
+                "description":"<p>Starting at 10th level, you and friendly creatures within 10 feet of you can&rsquo;t be frightened while you a<span>re conscious.</span></p>\r\n<p>At 18th level, the range of this aura increase<span>s to 30 feet.</span></p>",
+                "snippet":"While you are conscious, you and friendly creatures within 10 ft, can’t be frightened. [18th] Range increases to 30 ft.",
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"",
+                "requiredLevel":10,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":272,
+                "entityTypeId":12168134,
+                "displayOrder":15,
+                "name":"Improved Divine Smite",
+                "description":"<p>By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your Divine Smite with an attack, you add this damage to the extra damage of your <span>Divine Smite.</span></p>",
+                "snippet":"Whenever you hit with a melee weapon, the target takes an extra 1d8 radiant damage (in addition to any Divine Smite damage).",
+                "activation":{
+                  "activationTime":null,
+                  "activationType":8
+                },
+                "multiClassDescription":"",
+                "requiredLevel":11,
+                "isSubClassFeature":false,
+                "limitedUse":[
+                  {
+                    "level":null,
+                    "uses":1
+                  }
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":276,
+                "entityTypeId":12168134,
+                "displayOrder":16,
+                "name":"Ability Score Improvement",
+                "description":"<p>When you reach 12th level, and again at 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.</span></p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</span></p>",
+                "snippet":null,
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"",
+                "requiredLevel":12,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":true,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":273,
+                "entityTypeId":12168134,
+                "displayOrder":17,
+                "name":"Cleansing Touch",
+                "description":"<p>Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature th<span>at you touch.</span></p>\r\n<p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish<span> a long rest.</span></p>",
+                "snippet":"You can use your action to end one spell on yourself or on one willing creature that you touch {{modifier:cha@min:1}} times per long rest.",
+                "activation":{
+                  "activationTime":1,
+                  "activationType":1
+                },
+                "multiClassDescription":"",
+                "requiredLevel":14,
+                "isSubClassFeature":false,
+                "limitedUse":[
+                  {
+                    "level":null,
+                    "uses":0
+                  }
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":277,
+                "entityTypeId":12168134,
+                "displayOrder":18,
+                "name":"Ability Score Improvement",
+                "description":"<p>When you reach 16th level, and again at 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.</span></p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</span></p>",
+                "snippet":null,
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"",
+                "requiredLevel":16,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":true,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":274,
+                "entityTypeId":12168134,
+                "displayOrder":19,
+                "name":"Aura Improvements",
+                "description":"<p>At 18th level, the range of your auras increase<span>&nbsp;to 30 feet.</span></p>",
+                "snippet":"The range of all your auras increases to 30 ft.",
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"",
+                "requiredLevel":18,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":false,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            },
+            {
+              "definition":{
+                "id":278,
+                "entityTypeId":12168134,
+                "displayOrder":20,
+                "name":"Ability Score Improvement",
+                "description":"<p>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&rsquo;t increase an ability score above 20 using <span>this feature.</span></p>\r\n<p><span>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</span></p>",
+                "snippet":null,
+                "activation":{
+                  "activationTime":null,
+                  "activationType":null
+                },
+                "multiClassDescription":"",
+                "requiredLevel":19,
+                "isSubClassFeature":false,
+                "limitedUse":[
+
+                ],
+                "hideInBuilder":false,
+                "hideInSheet":true,
+                "sourceId":2,
+                "sourcePageNumber":85
+              },
+              "levelScale":null
+            }
+          ]
+        }
+      ],
+      "feats":[
+
+      ],
+      "customDefenseAdjustments":[
+
+      ],
+      "customSenses":[
+
+      ],
+      "customSpeeds":[
+
+      ],
+      "customProficiencies":[
+
+      ],
+      "spellDefenses":null,
+      "customActions":[
+
+      ],
+      "characterValues":[
+
+      ],
+      "conditions":[
+
+      ],
+      "deathSaves":{
+        "failCount":null,
+        "successCount":null,
+        "isStabilized":false
+      },
+      "adjustmentXp":null,
+      "spellSlots":[
+        {
+          "level":1,
+          "used":0,
+          "available":0
+        },
+        {
+          "level":2,
+          "used":0,
+          "available":0
+        },
+        {
+          "level":3,
+          "used":0,
+          "available":0
+        },
+        {
+          "level":4,
+          "used":0,
+          "available":0
+        },
+        {
+          "level":5,
+          "used":0,
+          "available":0
+        },
+        {
+          "level":6,
+          "used":0,
+          "available":0
+        },
+        {
+          "level":7,
+          "used":0,
+          "available":0
+        },
+        {
+          "level":8,
+          "used":0,
+          "available":0
+        },
+        {
+          "level":9,
+          "used":0,
+          "available":0
+        }
+      ],
+      "pactMagic":[
+        {
+          "level":1,
+          "used":0,
+          "available":0
+        },
+        {
+          "level":2,
+          "used":0,
+          "available":0
+        },
+        {
+          "level":3,
+          "used":0,
+          "available":0
+        },
+        {
+          "level":4,
+          "used":0,
+          "available":0
+        },
+        {
+          "level":5,
+          "used":0,
+          "available":0
+        }
+      ],
+      "activeSourceCategories":[
+        1,
+        8
+      ],
+      "spells":{
+        "race":[
+
+        ],
+        "class":[
+
+        ],
+        "item":[
+
+        ],
+        "feat":[
+
+        ]
+      },
+      "options":{
+        "race":[
+          {
+            "definition":{
+              "id":2,
+              "entityTypeId":306912077,
+              "name":"Blue Dragon",
+              "description":"",
+              "snippet":"Lightning",
+              "activation":{
+                "activationTime":null,
+                "activationType":null
+              },
+              "sourceId":1,
+              "sourcePageNumber":34
+            },
+            "componentId":3,
+            "componentTypeId":1960452172
+          },
+          {
+            "definition":{
+              "id":12,
+              "entityTypeId":306912077,
+              "name":"Blue Dragon",
+              "description":"",
+              "snippet":"As an action once per short rest, exhale in a 5 by 30 ft. line (DEX DC {{savedc:con}}, half damage on success) for 2d6 Lightning Damage [6th] 3d6, [11th] 4d6, [16th] 5d6",
+              "activation":{
+                "activationTime":null,
+                "activationType":null
+              },
+              "sourceId":1,
+              "sourcePageNumber":34
+            },
+            "componentId":4,
+            "componentTypeId":1960452172
+          },
+          {
+            "definition":{
+              "id":22,
+              "entityTypeId":306912077,
+              "name":"Blue Dragon",
+              "description":"",
+              "snippet":"Lightning Damage",
+              "activation":{
+                "activationTime":null,
+                "activationType":null
+              },
+              "sourceId":1,
+              "sourcePageNumber":34
+            },
+            "componentId":5,
+            "componentTypeId":1960452172
+          }
+        ],
+        "class":[
+
+        ],
+        "feat":[
+
+        ]
+      },
+      "choices":{
+        "race":[
+          {
+            "id":"8-0-20823438",
+            "parentChoiceId":null,
+            "type":8,
+            "subType":null,
+            "optionValue":2,
+            "label":null,
+            "isOptional":false,
+            "isInfinite":false,
+            "defaultSubtypes":[
+
+            ],
+            "options":[
+              {
+                "id":1,
+                "label":"Black Dragon",
+                "description":""
+              },
+              {
+                "id":2,
+                "label":"Blue Dragon",
+                "description":""
+              },
+              {
+                "id":3,
+                "label":"Brass Dragon",
+                "description":""
+              },
+              {
+                "id":4,
+                "label":"Bronze Dragon",
+                "description":""
+              },
+              {
+                "id":5,
+                "label":"Copper Dragon",
+                "description":""
+              },
+              {
+                "id":6,
+                "label":"Gold Dragon",
+                "description":""
+              },
+              {
+                "id":7,
+                "label":"Green Dragon",
+                "description":""
+              },
+              {
+                "id":8,
+                "label":"Red Dragon",
+                "description":""
+              },
+              {
+                "id":9,
+                "label":"Silver Dragon",
+                "description":""
+              },
+              {
+                "id":10,
+                "label":"White Dragon",
+                "description":""
+              }
+            ],
+            "componentId":3,
+            "componentTypeId":1960452172
+          }
+        ],
+        "class":[
+          {
+            "id":"2-1546",
+            "parentChoiceId":null,
+            "type":2,
+            "subType":1,
+            "optionValue":4125,
+            "label":"Choose a Paladin Skill",
+            "isOptional":false,
+            "isInfinite":false,
+            "defaultSubtypes":[
+
+            ],
+            "options":[
+              {
+                "id":4123,
+                "label":"Athletics",
+                "description":null
+              },
+              {
+                "id":4124,
+                "label":"Insight",
+                "description":null
+              },
+              {
+                "id":4125,
+                "label":"Intimidation",
+                "description":null
+              },
+              {
+                "id":4126,
+                "label":"Medicine",
+                "description":null
+              },
+              {
+                "id":4127,
+                "label":"Persuasion",
+                "description":null
+              },
+              {
+                "id":4128,
+                "label":"Religion",
+                "description":null
+              }
+            ],
+            "componentId":465,
+            "componentTypeId":12168134
+          },
+          {
+            "id":"2-1547",
+            "parentChoiceId":null,
+            "type":2,
+            "subType":1,
+            "optionValue":4126,
+            "label":"Choose a Paladin Skill",
+            "isOptional":false,
+            "isInfinite":false,
+            "defaultSubtypes":[
+
+            ],
+            "options":[
+              {
+                "id":4123,
+                "label":"Athletics",
+                "description":null
+              },
+              {
+                "id":4124,
+                "label":"Insight",
+                "description":null
+              },
+              {
+                "id":4125,
+                "label":"Intimidation",
+                "description":null
+              },
+              {
+                "id":4126,
+                "label":"Medicine",
+                "description":null
+              },
+              {
+                "id":4127,
+                "label":"Persuasion",
+                "description":null
+              },
+              {
+                "id":4128,
+                "label":"Religion",
+                "description":null
+              }
+            ],
+            "componentId":465,
+            "componentTypeId":12168134
+          }
+        ],
+        "background":[
+
+        ],
+        "feat":[
+
+        ]
+      },
+      "actions":{
+        "race":[
+          {
+            "id":1071,
+            "entityTypeId":222216831,
+            "limitedUse":{
+              "name":null,
+              "statModifierUsesId":null,
+              "resetType":1,
+              "numberUsed":0,
+              "minNumberConsumed":1,
+              "maxNumberConsumed":1,
+              "maxUses":1
+            },
+            "name":"Breath Weapon (Blue)",
+            "description":"",
+            "snippet":"As an action once per short rest, exhale in a 5 by 30 ft. line (DEX DC {{savedc:con}}, half damage on success) for 2d6 Lightning Damage [6th] 3d6, [11th] 4d6, [16th] 5d6",
+            "abilityModifierStatId":3,
+            "onMissDescription":"",
+            "saveFailDescription":"",
+            "saveSuccessDescription":"Half Damage",
+            "saveStatId":2,
+            "fixedSaveDc":null,
+            "attackTypeRange":null,
+            "actionType":3,
+            "attackSubtype":null,
+            "dice":{
+              "diceCount":2,
+              "diceValue":6,
+              "diceMultiplier":null,
+              "fixedValue":null,
+              "diceString":"2d6"
+            },
+            "value":null,
+            "damageTypeId":8,
+            "isMartialArts":false,
+            "isProficient":false,
+            "spellRangeType":null,
+            "displayAsAttack":true,
+            "range":{
+              "range":30,
+              "longRange":null,
+              "aoeType":4,
+              "aoeSize":30,
+              "hasAoeSpecialDescription":false
+            },
+            "activation":{
+              "activationTime":null,
+              "activationType":1
+            },
+            "attackCustomData":{
+              "name":null,
+              "notes":null,
+              "damageBonus":null,
+              "toHitBonus":null,
+              "toHit":null,
+              "isOffhand":null,
+              "isSilver":null,
+              "isAdamantine":null,
+              "isProficient":null,
+              "saveDcBonus":null,
+              "saveDc":null,
+              "weight":null,
+              "displayAsAttack":null,
+              "cost":null
+            },
+            "componentId":12,
+            "componentTypeId":306912077
+          }
+        ],
+        "class":[
+          {
+            "id":1026,
+            "entityTypeId":222216831,
+            "limitedUse":{
+              "name":null,
+              "statModifierUsesId":6,
+              "resetType":2,
+              "numberUsed":0,
+              "minNumberConsumed":1,
+              "maxNumberConsumed":1,
+              "maxUses":1
+            },
+            "name":"Divine Sense",
+            "description":"<p>The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [spell]<span><span>hallow[/spell]</span></span><span>&nbsp;spell.</span></p>\r\n<p>You can use this feature a number of ti<span>mes equal to&nbsp;</span>1 + your Charisma modifier. When you finish a long rest, you regain all e<span>xpended uses.</span></p>",
+            "snippet":"As an action, you can detect good and evil. Until the end of your next turn, you can sense anything affected by the hallow spell or know the location of any celestial, fiend, undead within 60 ft. that is not behind total cover. You can use this feature {{(modifier:cha)+1#unsigned}} times per long rest.",
+            "abilityModifierStatId":null,
+            "onMissDescription":"",
+            "saveFailDescription":"",
+            "saveSuccessDescription":"",
+            "saveStatId":null,
+            "fixedSaveDc":null,
+            "attackTypeRange":null,
+            "actionType":3,
+            "attackSubtype":null,
+            "dice":null,
+            "value":null,
+            "damageTypeId":null,
+            "isMartialArts":false,
+            "isProficient":false,
+            "spellRangeType":null,
+            "displayAsAttack":null,
+            "range":{
+              "range":null,
+              "longRange":null,
+              "aoeType":null,
+              "aoeSize":null,
+              "hasAoeSpecialDescription":false
+            },
+            "activation":{
+              "activationTime":1,
+              "activationType":1
+            },
+            "attackCustomData":{
+              "name":null,
+              "notes":null,
+              "damageBonus":null,
+              "toHitBonus":null,
+              "toHit":null,
+              "isOffhand":null,
+              "isSilver":null,
+              "isAdamantine":null,
+              "isProficient":null,
+              "saveDcBonus":null,
+              "saveDc":null,
+              "weight":null,
+              "displayAsAttack":null,
+              "cost":null
+            },
+            "componentId":260,
+            "componentTypeId":12168134
+          },
+          {
+            "id":1027,
+            "entityTypeId":222216831,
+            "limitedUse":{
+              "name":null,
+              "statModifierUsesId":null,
+              "resetType":2,
+              "numberUsed":0,
+              "minNumberConsumed":1,
+              "maxNumberConsumed":1,
+              "maxUses":5
+            },
+            "name":"Lay on Hands Pool",
+            "description":"<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your palad<span>in level &times; 5.</span></p>\r\n<p>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining&nbsp;<span>in your pool.</span></p>\r\n<p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately&nbsp;<span>for each one.</span></p>\r\n<p>This feature has no effect on undead an<span>d constructs.</span></p>",
+            "snippet":"You have a pool of healing power that can restore {{classlevel*5#unsigned}} HP per long rest. As an action, you can touch a creature to restore any number of HP remaining in the pool, or 5 HP to either cure a disease or neutralize a poison affecting the creature.",
+            "abilityModifierStatId":null,
+            "onMissDescription":"",
+            "saveFailDescription":"",
+            "saveSuccessDescription":"",
+            "saveStatId":null,
+            "fixedSaveDc":null,
+            "attackTypeRange":null,
+            "actionType":3,
+            "attackSubtype":null,
+            "dice":null,
+            "value":null,
+            "damageTypeId":null,
+            "isMartialArts":false,
+            "isProficient":false,
+            "spellRangeType":null,
+            "displayAsAttack":null,
+            "range":{
+              "range":null,
+              "longRange":null,
+              "aoeType":null,
+              "aoeSize":null,
+              "hasAoeSpecialDescription":false
+            },
+            "activation":{
+              "activationTime":1,
+              "activationType":1
+            },
+            "attackCustomData":{
+              "name":null,
+              "notes":null,
+              "damageBonus":null,
+              "toHitBonus":null,
+              "toHit":null,
+              "isOffhand":null,
+              "isSilver":null,
+              "isAdamantine":null,
+              "isProficient":null,
+              "saveDcBonus":null,
+              "saveDc":null,
+              "weight":null,
+              "displayAsAttack":null,
+              "cost":null
+            },
+            "componentId":261,
+            "componentTypeId":12168134
+          }
+        ],
+        "feat":[
+
+        ]
+      },
+      "modifiers":{
+        "race":[
+          {
+            "id":"racialTrait_67_1601",
+            "entityId":1,
+            "entityTypeId":1472902489,
+            "type":"bonus",
+            "subType":"strength-score",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Bonus",
+            "friendlySubtypeName":"Strength Score",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":2,
+            "componentId":67,
+            "componentTypeId":1960452172
+          },
+          {
+            "id":"racialTrait_67_1602",
+            "entityId":6,
+            "entityTypeId":1472902489,
+            "type":"bonus",
+            "subType":"charisma-score",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Bonus",
+            "friendlySubtypeName":"Charisma Score",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":1,
+            "componentId":67,
+            "componentTypeId":1960452172
+          },
+          {
+            "id":"racialTrait_83_1621",
+            "entityId":1,
+            "entityTypeId":906033267,
+            "type":"language",
+            "subType":"common",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Language",
+            "friendlySubtypeName":"Common",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":83,
+            "componentTypeId":1960452172
+          },
+          {
+            "id":"racialTrait_83_1622",
+            "entityId":11,
+            "entityTypeId":906033267,
+            "type":"language",
+            "subType":"draconic",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Language",
+            "friendlySubtypeName":"Draconic",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":83,
+            "componentTypeId":1960452172
+          },
+          {
+            "id":"racialTraitOption_12_2075",
+            "entityId":8,
+            "entityTypeId":349597128,
+            "type":"damage",
+            "subType":"lightning",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Damage",
+            "friendlySubtypeName":"Lightning",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":12,
+            "componentTypeId":306912077
+          },
+          {
+            "id":"racialTraitOption_22_2085",
+            "entityId":8,
+            "entityTypeId":349597128,
+            "type":"resistance",
+            "subType":"lightning",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Resistance",
+            "friendlySubtypeName":"Lightning",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":22,
+            "componentTypeId":306912077
+          }
+        ],
+        "class":[
+          {
+            "id":"classFeature_465_1540",
+            "entityId":1,
+            "entityTypeId":174869515,
+            "type":"proficiency",
+            "subType":"light-armor",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Proficiency",
+            "friendlySubtypeName":"Light Armor",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":465,
+            "componentTypeId":12168134
+          },
+          {
+            "id":"classFeature_465_1541",
+            "entityId":2,
+            "entityTypeId":174869515,
+            "type":"proficiency",
+            "subType":"medium-armor",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Proficiency",
+            "friendlySubtypeName":"Medium Armor",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":465,
+            "componentTypeId":12168134
+          },
+          {
+            "id":"classFeature_465_1542",
+            "entityId":3,
+            "entityTypeId":174869515,
+            "type":"proficiency",
+            "subType":"heavy-armor",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Proficiency",
+            "friendlySubtypeName":"Heavy Armor",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":465,
+            "componentTypeId":12168134
+          },
+          {
+            "id":"classFeature_465_1543",
+            "entityId":4,
+            "entityTypeId":174869515,
+            "type":"proficiency",
+            "subType":"shields",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Proficiency",
+            "friendlySubtypeName":"Shields",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":465,
+            "componentTypeId":12168134
+          },
+          {
+            "id":"classFeature_465_1544",
+            "entityId":null,
+            "entityTypeId":null,
+            "type":"proficiency",
+            "subType":"wisdom-saving-throws",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Proficiency",
+            "friendlySubtypeName":"Wisdom Saving Throws",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":465,
+            "componentTypeId":12168134
+          },
+          {
+            "id":"classFeature_465_1545",
+            "entityId":null,
+            "entityTypeId":null,
+            "type":"proficiency",
+            "subType":"charisma-saving-throws",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Proficiency",
+            "friendlySubtypeName":"Charisma Saving Throws",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":465,
+            "componentTypeId":12168134
+          },
+          {
+            "id":"classFeature_465_1546",
+            "entityId":17,
+            "entityTypeId":1958004211,
+            "type":"proficiency",
+            "subType":"intimidation",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Proficiency",
+            "friendlySubtypeName":"Intimidation",
+            "isGranted":false,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":465,
+            "componentTypeId":12168134
+          },
+          {
+            "id":"classFeature_465_1547",
+            "entityId":13,
+            "entityTypeId":1958004211,
+            "type":"proficiency",
+            "subType":"medicine",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Proficiency",
+            "friendlySubtypeName":"Medicine",
+            "isGranted":false,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":465,
+            "componentTypeId":12168134
+          },
+          {
+            "id":"classFeature_465_2825",
+            "entityId":1,
+            "entityTypeId":660121713,
+            "type":"proficiency",
+            "subType":"simple-weapons",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Proficiency",
+            "friendlySubtypeName":"Simple Weapons",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":465,
+            "componentTypeId":12168134
+          },
+          {
+            "id":"classFeature_465_2826",
+            "entityId":2,
+            "entityTypeId":660121713,
+            "type":"proficiency",
+            "subType":"martial-weapons",
+            "dice":null,
+            "restriction":"",
+            "statId":null,
+            "requiresAttunement":false,
+            "duration":null,
+            "friendlyTypeName":"Proficiency",
+            "friendlySubtypeName":"Martial Weapons",
+            "isGranted":true,
+            "bonusTypes":[
+
+            ],
+            "value":null,
+            "componentId":465,
+            "componentTypeId":12168134
+          }
+        ],
+        "background":[
+
+        ],
+        "item":[
+
+        ],
+        "feat":[
+
+        ],
+        "condition":[
+
+        ]
+      },
+      "classSpells":[
+        {
+          "characterClassId":5628570,
+          "spells":[
+
+          ]
+        }
+      ],
+      "customItems":[
+
+      ],
+      "campaign":null
+    }
+  ]
+}

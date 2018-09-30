@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>DnD - uplusion23</title>
+    <meta name="author" content="uplusion23">
+    <link rel="stylesheet" href="assets/font/Rajdahni.css">
+    <link rel="stylesheet" href="assets/font/MaterialIcons.css">
+    <link rel="stylesheet" href="assets/font/Roboto.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+  </head>
+  <body>
+    <div class="sidebar">
+      <div class="header">
+        <div class="logo"></div>
+      </div>
+      <ul>
+        <li data-page="characters" class="active"><a><i class="material-icons">contacts</i></a><span class="tooltip">Characters</span></li>
+        <li class="disabled" data-page="map"><a><i class="material-icons">map</i></a><span class="tooltip">Map</span></li>
+        <li data-page="die"><a><i><img src="assets/img/dice-multiple.png" /></i></a><span class="tooltip">Die</span></li>
+        <li data-page="settings"><a><i class="material-icons">settings</i></a><span class="tooltip">Settings</span></li>
+      </ul>
+    </div>
+    <div class="page active" data-page="characters">
+    </div>
+    <div class="page" data-page="map">
+      <iframe id="mapFrame" src="map/index.html"></iframe>
+      <span class="watermark">Azgaar (u/Azgarr)'s Fantasy Map Generator</span>
+    </div>
+    <div class="page" data-page="die">
+      <div class="card">
+        <div class="die" data-die="d4">
+          <div class="image"></div>
+          <a class="btn">Roll</a>
+          <div class="rolls">
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="die" data-die="d6">
+          <div class="image"></div>
+          <a class="btn">Roll</a>
+          <div class="rolls">
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="die" data-die="d8">
+          <div class="image"></div>
+          <a class="btn">Roll</a>
+          <div class="rolls">
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="die" data-die="d10">
+          <div class="image"></div>
+          <a class="btn">Roll</a>
+          <div class="rolls">
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="die" data-die="d12">
+          <div class="image"></div>
+          <a class="btn">Roll</a>
+          <div class="rolls">
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="die" data-die="d20">
+          <div class="image"></div>
+          <a class="btn">Roll</a>
+          <div class="rolls">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="page" data-page="settings">
+    </div>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
