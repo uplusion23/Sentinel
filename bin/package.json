@@ -1,11 +1,11 @@
 {
   "main": "app.html",
-  "name": "DnD",
+  "name": "Sentinel",
   "description": "WebKit based DnD App",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "keywords": [ "Dungeons and Dragons", "node-webkit" ],
   "window": {
-    "title": "DnD - uplusion23",
+    "title": "Sentinel",
     "icon": "assets/img/sentinel_logo.png",
     "toolbar": true,
     "frame": false,

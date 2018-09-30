@@ -67,11 +67,17 @@ $('body').on('click', '.die .btn', function() {
 //var character = fs.readFileSync('test.json', 'utf8');
 //var jsonChar = edn.parse(character);
 
+$('body').on('click', '.btn[data-action="expand-character"]', function() {
+  // Holy Shit I'm lazy
+  $(this).parent().parent().toggleClass('active');
+});
+
 var ui = {
   addCharacter: function(data) {
-    var $char = '<div class="card">\
+    var $char = '<div class="card card-character">\
       <div class="character">\
         <div class="header">\
+          <a class="btn btn-outline" style="top: 10px; right: 10px; position: absolute; z-index: 2;" data-action="expand-character">More</a>\
           <div class="icon" style="background-image: url(' + data.avatarUrl + ')"></div>\
           <div class="basic-info">\
             <span class="character-name">' + data.name + '</span>\
@@ -84,6 +90,7 @@ var ui = {
             </span>\
           </div>\
         </div>\
+        <div class="data">' + JSON.stringify(data) + '</div>\
       </div>\
     </div>';
     $('.page[data-page="characters"]').append($char);
