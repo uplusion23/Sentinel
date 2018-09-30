@@ -6,8 +6,8 @@
 
 > Sentinel is a small project to bring the experience of online DnD tools into one package that works seamlessly together. Generate custom maps with political regions, cities, towns, harbors, with population, trade routes, rivers and mountain ranges. Your characters can be uploaded from multiple online character sheets, and managed all within the application, or you can create entirely new characters. Manage dice rolling and lore within the app, too, and everything is saved so it can be ready to be opened next time you play.
 
-#### Issues
-* Will Add
+#### Bugs
+* All of them
 
 #### Dev Build Setup/Installation
 1. Install NodeJS (I use **v6.11.2** for development)
