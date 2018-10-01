@@ -28,6 +28,22 @@ $('body').on('click', '.sidebar ul li', function() {
   $('.page[data-page="' + selection + '"]').addClass('active');
 });
 
+$('.dialog').on('click', function(e) {
+  if (e.target !== this)
+    return;
+  $(this).toggleClass('active');
+});
+
+$('.icon-selector').on('mousewheel DOMMouseScroll', function(event){
+    var delta = Math.max(-1, Math.min(1, (event.originalEvent.wheelDelta || -event.originalEvent.detail)));
+    $(this).scrollLeft( $(this).scrollLeft() - ( delta * 40 ) );
+    event.preventDefault();
+});
+
+$('body').on('click', '.icon-selector > .icon-image', function() {
+  $('.profile-icon').css({'background-image': $(this).css('background-image')})
+});
+
 $('body').on('click', '.die .btn', function() {
   var $dieContainer = $(this).parent()
   var dieCount = $dieContainer.data('die');
@@ -138,6 +154,10 @@ var character = {
       character.data = JSON.parse(fs.readFileSync('data/data.json', 'utf8'));
     }
     character.loadCharacters();
+    for (var x = 0; x < character.data.app.icons.length; x++) {
+      var $ele = '<div class="icon-image" style="background-image: url(assets/icons/character/' + character.data.app.icons[x] + ')"></div>';
+      $('.icon-selector').append($ele);
+    }
   },
   loadCharacters: function() {
     if (character.data.characters !== undefined) {

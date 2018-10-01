@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>DnD - uplusion23</title>
+    <title>Sentinel - uplusion23</title>
     <meta name="author" content="uplusion23">
     <link rel="stylesheet" href="assets/font/Rajdahni.css">
     <link rel="stylesheet" href="assets/font/MaterialIcons.css">
@@ -15,17 +15,22 @@
         <div class="header">
           Create New Character
         </div>
-        <div class="form_group">
+        <div class="form_group" style="display: flex;flex-direction:row;">
+          <div class="profile-icon"></div>
           <input type="text" id="charname" class="form_field" placeholder="Character Name">
-          <label for="text" class="form_label">Character Name</label>
+          <label style="padding-left: calc(80px + 3em);" for="text" class="form_label">Character Name</label>
+        </div>
+        <div class="container">
+          <div class="icon-selector">
+          </div>
         </div>
         <div class="form_group">
           <textarea type="text" id="charbio" class="form_field" placeholder="Character Biography" rows="4"></textarea>
           <label for="text" class="form_label">Character Biography</label>
         </div>
         <div class="footer">
-          <a class="btn">Next Page</a>
           <a class="btn btn-disabled">Previous Page</a>
+          <a class="btn">Next Page</a>
         </div>
       </div>
     </div>
