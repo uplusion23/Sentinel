@@ -20,8 +20,8 @@
 
 ### Screenshots
 
-<img src="https://i.imgur.com/9f2CYi2.png" width="250">
-<img src="https://i.imgur.com/8m8DZw2.png" width="250">
+<img src="https://i.imgur.com/9f2CYi2.png" width="500">
+<img src="https://i.imgur.com/8m8DZw2.png" width="500">
 
 #### Issues?
 * Ensure the nodejs modules are updated via `npm update` command.
