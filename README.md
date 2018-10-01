@@ -18,6 +18,11 @@
 5. Run the app using the start.bat file. There will be an official launcher later on.
 
 
+### Screenshots
+
+<img src="https://i.imgur.com/9f2CYi2.png" width="250">
+<img src="https://i.imgur.com/8m8DZw2.png" width="250">
+
 #### Issues?
 * Ensure the nodejs modules are updated via `npm update` command.
 * Ensure you are running the 64bit nodejs, and NWJS
