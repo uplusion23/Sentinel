@@ -24,3 +24,7 @@
 
 #### ToDo
 * Dynamically load additional icons.
+
+#### Credits
+* Map addon thanks to Azgaar ([u/Azgaar](https://www.reddit.com/user/Azgarr))'s amazing work. [GitHub Link](https://github.com/Azgaar/Fantasy-Map-Generator)
+* Reddit r/DnD subreddit for support on rules, mechanics, and user needs
