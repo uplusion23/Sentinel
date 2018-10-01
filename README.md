@@ -21,3 +21,6 @@
 #### Issues?
 * Ensure the nodejs modules are updated via `npm update` command.
 * Ensure you are running the 64bit nodejs, and NWJS
+
+#### ToDo
+* Dynamically load additional icons.
